@@ -7,7 +7,7 @@ categories: [oracle]
 author: Diogo Menezes
 ---
 
-Today I needed to create a ER diagram for my oracle database, and found that the Oracle Sql Developer is not so intuitive for this task.
+Today I needed to create a ER diagram for my oracle database, and realized that the Oracle Sql Developer is not so intuitive for this task.
 
 First you will have to open Oracle Sql Developer and go to:
 
@@ -28,7 +28,7 @@ If after making the diagram, you want to change it with the most recently databa
 For export the diagram to image, PDF or SVG, you have to go to:
 
 ```
-File → Data Modeler → Print Diagram → and chose you option 
+File → Data Modeler → Print Diagram → and choose you option 
 ```
 
 ![Alt text](/images/posts/diagram-sql-developer-3.png)

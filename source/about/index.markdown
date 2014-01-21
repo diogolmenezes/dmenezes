@@ -9,7 +9,7 @@ I'm a web developer with over 10 years experience.
 
 In my career I had the opportunity to develop projects for large companies like Globo, VISA, Rio2016, AMIL, SHV and more.
 
-Currently working as a **senior technical leader** at [Metatron] (http://www.metatron.com.br).
+Currently working as a **senior technical leader** at [Metatron](http://www.metatron.com.br).
 
 ## Skills
 

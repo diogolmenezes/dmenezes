@@ -4,7 +4,7 @@
 
 url: http://diogolmenezes.github.io
 title: dmenezes
-subtitle: coding 
+subtitle: everyday coding
 author: Diogo Menezes
 simple_search: http://google.com/search
 description:
@@ -105,9 +105,9 @@ facebook_like: false
 navigation:
 - text: Home
   url: /index.html
-- text: Sobre
+- text: About
   url: /about
-- text: Arquivo
+- text: Archive
   url: /blog/archives
 - text: Rss
   url: /atom.xml

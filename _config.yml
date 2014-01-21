@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: dmenezes
+subtitle: coding 
+author: Diogo Menezes
 simple_search: http://google.com/search
 description:
 
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: diogolmenezes
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: diogolmenezes
 twitter_tweet_button: true
 
 # Google +1
@@ -78,7 +78,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: diogolmenezes
 googleplus_hidden: false
 
 # Pinboard
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: dmenezes
 disqus_show_comment_count: false
 
 # Google Analytics
@@ -98,3 +98,16 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Linkedin
+# linkedin_user: diogolmenezes@gmail.com
+
+navigation:
+- text: Home
+  url: /index.html
+- text: Sobre
+  url: /about
+- text: Arquivo
+  url: /blog/archives
+- text: Rss
+  url: /atom.xml

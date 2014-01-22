@@ -109,5 +109,7 @@ navigation:
   url: /about
 - text: Archive
   url: /blog/archives
+- text: Tools
+  url: /tools
 - text: Rss
   url: /atom.xml

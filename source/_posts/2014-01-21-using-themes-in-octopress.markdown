@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using themes in octopress"
-date: 2014-01-21 23:41:26 -0200
+date: 2014-01-22 23:41:26 -0200
 comments: true
 categories: [ruby, octopress, jekyll]
 author: Diogo Menezes

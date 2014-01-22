@@ -26,3 +26,4 @@ In my free time, I created and maintain several projects, including:
 * [Poetizando](http://poetizando.com.br) - Developed with C#/MVC
 * [Mãe em Ação](http://maeemacao.com.br) - Developed with Python/Django
 * [Virou Manchete](http://viroumanchete.com.br) - Developed with C#/MVC
+* [Dmenezes](http://diogolmenezes.github.io/) - Developed with Octopress
